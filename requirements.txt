@@ -1,0 +1,9 @@
+decision-tree-morfist==0.3.3
+json5=0.9.5
+matplotlib=3.3.4
+nonconformist==2.1.0
+numpy==1.20.1
+pandas==1.2.4
+scikit-learn==0.24.1
+
+
